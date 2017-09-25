@@ -1,56 +1,22 @@
 ---
 layout: post
-title:  "Sample post with all elements"
-description: Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit Sed Do Eiusmod Tempor Incidi
-img:
+title:  "Gilbarco Eye"
+description: Embedded System for Fuel Station which monitors and transmits different parameters over Bluetooth and Internet.
+img: 81.png
 date: 2017-03-07  +0200
 ---
 
-## Headings
+# Third Eye
 
-Headings by default:
+This is an Android application which communicates with embedded hardware via Bluetooth to read data from attached sensors. It has the following features.  
+1) The received data can be seen in graphical format in real time.  
+2) The data can also be recorded in .csv files.  
+3) Recorded csv files can later be loaded for further study.  
+4) Option to select mutiple parameters at once to compare data.  
+5) When connected to internet via WiFi or Mobile Data, received data can be transfered to server for remote monitoring.  
 
-## Heading first level
-### Heading second level
-#### Heading third level
+### Screenshot
+![image](..//master/sc.png?raw=true)
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
-
-## Lists
-
-Unordered list example:
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
-* Unordered list item 4
-
-Ordered list example:
-1. Ordered list item 1
-2. Ordered list item 1
-3. Ordered list item 1
-4. Ordered list item 1
-
-{% highlight markdown %}
-* Unordered list item 1
-* Unordered list item 2
-
-1. Order list item 1
-2. Order list item 1
-{% endhighlight %}
-
-
-## Quotes
-
-A quote looks like this:
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna.
-
-{% highlight markdown %}
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna.
-{% endhighlight %}
+### Libraries
+1) Android Graphview http://www.android-graphview.org/
