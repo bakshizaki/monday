@@ -6,7 +6,7 @@ img: 81.png
 date: 2017-03-07  +0200
 ---
 
-# Gilbarco Eye3
+# Gilbarco Eye4
 
 This is an Android application which communicates with embedded hardware via Bluetooth to read data from attached sensors. It has the following features.  
 1) The received data can be seen in graphical format in real time.  
@@ -15,8 +15,11 @@ This is an Android application which communicates with embedded hardware via Blu
 4) Option to select mutiple parameters at once to compare data.  
 5) When connected to internet via WiFi or Mobile Data, received data can be transfered to server for remote monitoring.  
 
-### Screenshot
-![image](https://github.com/bakshizaki/Third-Eye/blob/master/sc.png?raw=true)
+### Video
+[![image](http://img.youtube.com/vi/_9MkpmT0o2M/0.jpg)](https://www.youtube.com/watch?v=_9MkpmT0o2M)
+
+### Github:
+[Repository](https://github.com/bakshizaki/Third-Eye)
 
 ### Libraries
 1) Android Graphview http://www.android-graphview.org/ul
