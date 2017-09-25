@@ -16,7 +16,7 @@ This is an Android application which communicates with embedded hardware via Blu
 5) When connected to internet via WiFi or Mobile Data, received data can be transfered to server for remote monitoring.  
 
 ### Screenshot
-![image](..//master/sc.png?raw=true)
+![image](https://github.com/bakshizaki/Third-Eye/blob/master/sc.png)
 
 ### Libraries
-1) Android Graphview http://www.android-graphview.org/
+1) Android Graphview http://www.android-graphview.org/ul
