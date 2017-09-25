@@ -16,7 +16,7 @@ This is an Android application which communicates with embedded hardware via Blu
 5) When connected to internet via WiFi or Mobile Data, received data can be transfered to server for remote monitoring.  
 
 ### Video
-[![image](http://img.youtube.com/vi/_9MkpmT0o2M/0.jpg)](https://www.youtube.com/watch?v=_9MkpmT0o2M)
+[![image](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/gil-eye.png?raw=true)](https://www.youtube.com/watch?v=_9MkpmT0o2M)
 
 ### Github:
 [Repository](https://github.com/bakshizaki/Third-Eye)
