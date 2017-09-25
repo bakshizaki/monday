@@ -6,7 +6,7 @@ img: 81.png
 date: 2017-03-07  +0200
 ---
 
-# Gilbarco Eye
+# Gilbarco Eye2
 
 This is an Android application which communicates with embedded hardware via Bluetooth to read data from attached sensors. It has the following features.  
 1) The received data can be seen in graphical format in real time.  
