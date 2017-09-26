@@ -18,8 +18,8 @@ This is an Android application which communicates with embedded hardware via Blu
 ### Video -
 [![image](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/gil-eye.png?raw=true)](https://www.youtube.com/watch?v=_9MkpmT0o2M)
 
-### Github:
-[Repository](https://github.com/bakshizaki/Third-Eye)
+### Source:
+[Github](https://github.com/bakshizaki/Third-Eye)
 
 ### Libraries
 1) Android Graphview http://www.android-graphview.org/ul

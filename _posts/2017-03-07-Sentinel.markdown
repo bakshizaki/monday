@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sentinel"
-description: IoT system developed for sweet manufacturers, won 6th place in IndiaHacks Hackathan.
+description: IoT system developed for sweet manufacturers, won 6th place in IndiaHacks Hackathon.
 img: sentinel.png
 date: 2017-03-07  +0200
 ---
@@ -34,6 +34,9 @@ Web App:
 ### Videos  
 [Hackathon Submission](https://www.youtube.com/watch?v=1LtBvIF2MCU)  
 [Web App](http://www.youtube.com/watch?v=yZz5Oyqo77Y&t=0m50s)  
+
+### Source
+[Github](https://github.com/bakshizaki/Sentinel-Hackathon)
 
 ### Libraries  
 Arduino libararies used for the prject. Thanks to all the contributors  
