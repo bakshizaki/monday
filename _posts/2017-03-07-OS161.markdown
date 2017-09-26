@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "OS161"
+description: Operating System project completed for CSE 521 Operating Systems.
+img:
+date: 2017-03-07  +0200
+---
+
+# OS161
+
+   This project was a part of the [CSE 521 Operating Systems] class at UB. It uses [OS161] which is a BSD-like simplified system used for teaching. OS/161 includes both a kernel of conventional ("macrokernel") design and a simple userland, including a variety of test programs. It is written in C and uses (but does not itself include) gcc as its compiler.  
+
+   The base OS/161 system provides low-level trap and interrupt code, device drivers, in-kernel threads, a baseline scheduler, and an extremely minimal virtual memory system. It also includes a simple skeleton file system and an emulator pass-through file system, with a VFS layer to allow using both at once.  
+
+   The whole Project is divided into 3 assignments which are as follows:
+
+1) ASST1. Synchronization:
+   OS/161 comes with interrupt handling and semaphores, to complete this assignment we had to implement sleep-locks, condition variables and reader writer locks and use these to solve a couple of synchronization problems.  
+   [ASST1 Specs](https://www.ops-class.org/asst/1/)
+
+2) ASST2. System Calls:
+   OS/161 comes with kernel ABI definitions, but no system call layer. For this assignment we implemented a basic set of File systems calls (open, read, write, dup2, lseek etc.) and Process system calls (fork, execv, waitpit, exit). To implement these we had to add the necessary support infrastructure to the kernel like file table, process table etc.  
+   [ASST2 Specs](https://www.ops-class.org/asst/2/)
+
+3) ASST3. Virtual Memory:
+   The "dumbvm" shipped with OS/161 is only meant to be good enough for bootstrapping the system and doing the early assignments. In this assignment we implemented a virtual memory system which supports a) paging, b) variable segments, heap sizes and stacks sizes. c) swapping.  
+   [ASST3 Specs](https://www.ops-class.org/asst/3/)
+
+### Source:  
+[Github](https://github.com/bakshizaki/os161)
+
+### test161 Leaderboard:  
+[LeaderBoard](https://test161.ops-class.org/leaders)
+
+[OS161]: http://os161.eecs.harvard.edu/
+[CSE 521 Operating Systems]: https://www.ops-class.org/

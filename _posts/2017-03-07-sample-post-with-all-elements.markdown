@@ -18,7 +18,7 @@ This is an Android application which communicates with embedded hardware via Blu
 ### Video -
 [![image](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/gil-eye.png?raw=true)](https://www.youtube.com/watch?v=_9MkpmT0o2M)
 
-### Source:
+### Source:  
 [Github](https://github.com/bakshizaki/Third-Eye)
 
 ### Libraries
