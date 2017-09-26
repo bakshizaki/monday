@@ -13,10 +13,12 @@ To capture handwriting, a picture of the handwritten alphabets is taken and proc
 Original Image:  
 ![original](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/alphabets2.jpg?raw=true)  
 Screenshots  
-![initial](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/initial.png?raw=true)     ![final](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/final.png?raw=true)  
+<img src="https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/initial.png?raw=true" alt="Initial" style="width: 200px;"/>
+    <img src="https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/final.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
 The application also includes a character recognition activity which utilizes Tesseract OCR engine for character recognition. The generated output can be later used as input text to write in custom font.  
-![ocr1](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/ocr1.png?raw=true)       ![ocr2](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/ocr2.png?raw=true)  
+<img src="https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/ocr1.png?raw=true" alt="Drawing" style="width: 200px;"/>
+    <img src="https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/ocr2.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
 ### Building: 
 For building the project, you would need to add these libraries.  
@@ -26,3 +28,6 @@ https://sourceforge.net/projects/opencvlibrary/files/opencv-android/
 https://github.com/rmtheis/tess-two  
 3) CropImage library by Lorenzo Villani available at  
 https://github.com/lvillani/android-cropimage   
+
+### Source:  
+[Github](https://github.com/bakshizaki/Assignment-Writer)

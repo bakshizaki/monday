@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "eGuru"
+description: Tutoring Software for Civil Engineering Students for Statics, completed as Research Assistant.
+img: eGuru1.png
+date: 2017-03-07  +0200
+---
+
+# eGuru
+eGuru is a tutoring software made for students of Civil Engineering for the subject of Statics. This project was started as a class project for the course "Software Engineering Concepts" which was later selected by Civil Engineering Department to be further developed under Dr. Andrew Olewnik and Prof. Mettupalayam Sivaselvan.  
+
+The project consists of 3 parts.  
+1) Selection of Assumptions and Reasons:  
+	In this part students are supposed to read the questions and select appropriate assumptions and reasons by observing real world model and idealized model.  
+![original](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/eGuru2.png?raw=true)  
+
+2) Selection of Free Body Diagram:  
+	Now the software asks student to select a valid Free Body Diagram from the idealized model. The way to define a Free Body Diagram is to select the appropriate cuts from the given cuts such that you can solve the problem.  
+![original](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/eGuru3.png?raw=true)  
+
+3) Selection of Forces:  
+	After selection Free Body Diagram, now the students have to draw appropriate forces and moments on the selected Free Body Diagram. Forces can be drawn at any angle and moments can be clockwise and anticlockwise. Each of them can be known or unknown. To enable all these varieties we have provided a toolbox using which students can then define forces and moments at given points.
+![original](https://github.com/bakshizaki/monday/blob/gh-pages/assets/img/eGuru1.png?raw=true)  
+
+### Source:  
+[Github](https://github.com/amaan-modak/Engineering-Educators)
